@@ -7,7 +7,7 @@ This project was developed as part of the university unit FIT2081. It successful
 
 ## Features
 
-- **Personalized Nutrition Tracking**: Log meals and monitor calorie intake.  
+- **Personalised Nutrition Tracking**: Log meals and monitor calorie intake.  
 - **GenAI API Integration**: Get tailored nutrition recommendations based on user input.  
 - **Local Database**: Efficient storage and retrieval of user data using Room Database.  
 - **Responsive Design**: Smooth, intuitive UI for an engaging user experience.  
@@ -19,7 +19,8 @@ This project was developed as part of the university unit FIT2081. It successful
 
 - **Language**: Kotlin  
 - **Platform**: Android  
-- **Database**: Room (SQLite)  
+- **Database**: Room (SQLite)
+- **Structure**: MVVM
 - **API**: GenAI API for nutrition recommendations  
 - **Version Control**: Git  
 
