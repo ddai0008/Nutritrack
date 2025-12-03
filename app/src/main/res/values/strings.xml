@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Assignment3_33906211</string>
+    <string name="title_activity_welcome_screen">Welcome_Screen</string>
+    <string name="disclaimer_text">
+        This app provides general health and nutrition information for educational purposes only.
+        It is not intended as medical advice, diagnosis, or treatment. Always consult a qualified
+        professional before making any changes to your diet, exercise, or health regimen.\n\n
+        Use this app at your own risk. If you would like to see an Accredited Practicing Dietitian (APD),
+        please visit the Monash Nutrition Clinic:
+    </string>
+    <string name="persona_background">
+        People can be broadly classified into 6 different types based on their eating preferences.
+        Click on ach button below to find out the different types, and select the type that best fits you!
+    </string>
+    <string name="food_score_description">
+        Your Food Quality Score provides a snapshot of how well your eating-patterns align
+        with established food guidelines, helping you identify both strengths and
+        opportunities for improvement in your diet. \n\n
+        This personalized measurement considers various food groups including vegetable,
+        fruits, whole grains, and proteins to give you practical insights for making
+        healthier food choices.
+    </string>
+    <string name="GenAi_Prompt">
+        Generate a short unique encouraging health tip to improve their healths:
+        - References one random specific metric
+        - Suggests adding one food from: Fruit, Vegetables, Grains, Red Meat, Seafood, Poultry, Fish, Egg, Nuts/Seeds
+        - Uses unique phrasing each time
+    </string>
+    <string name="GenAi_Pattern_Prompt">
+        Please analyse and find one short unique pattern
+        - References one random specific metric from: Sex, discretionary, vegetables, fruit,
+        grains, whole, meat, dairy, sodium, alcohol, water, sugar, saturated fat, unsaturated fat
+        - Uses unique phrasing each time
+    </string>
+    <string name="title_activity_questionnaires_screen">QuestionnairesScreen</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_insight_screen">InsightScreen</string>
+    <string name="title_activity_clinician_screen">ClinicianScreen</string>
+</resources>
