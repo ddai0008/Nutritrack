@@ -68,7 +68,7 @@ class GenAiViewModel(application: Application) : AndroidViewModel(application) {
     // Reference: Workshop 7
     private val generativeModel by lazy {
         GenerativeModel(
-            modelName = "gemini-1.5-flash", apiKey = "AIzaSyDXjTBX9BbkfglxdZv5MWCd21n7ee7yDFA"
+            modelName = "gemini-1.5-flash", apiKey = "GOOGLE_API_KEY"
         )
     }
 
