@@ -1,11 +1,15 @@
 # Nutritrack
 
 **Nutritrack** is an Android application designed to help users track and manage their daily nutrition. Leveraging Kotlin and modern Android development principles, Nutritrack provides personalised recommendations, a local database for efficient storage, and a clean, intuitive user interface.
-This project was developed as part of the university unit FIT2081. It successfully meets all the requirements outlined by the course and received a High Distinction. No updates have been made since the submission. The Git repository reflects the skills and techniques demonstrated during the project period. Note that the app may not function fully due to the absence of the GEN AI API; please refer to the code for reference only.
+This project was developed as part of the university unit FIT2081. It successfully meets all the requirements outlined by the course and received a High Distinction. No updates have been made since the submission. The Git repository reflects the skills and techniques demonstrated during the project period. 
+
+**Note:** Note that the app may not function fully due to the absence of the GEN AI API; please refer to the code for reference only.
+
+*last update: June 2025*
 
 ---
 
-## Features
+## Technical Features
 
 - **Personalised Nutrition Tracking**: Log meals and monitor calorie intake.  
 - **GenAI API Integration**: Get tailored nutrition recommendations based on user input.  
@@ -15,7 +19,7 @@ This project was developed as part of the university unit FIT2081. It successful
 
 ---
 
-## Tech Stack
+## Technologies Used
 
 - **Language**: Kotlin  
 - **Platform**: Android  
@@ -24,3 +28,9 @@ This project was developed as part of the university unit FIT2081. It successful
 - **API**: GenAI API for nutrition recommendations  
 - **Version Control**: Git  
 
+---
+
+## Contact Information
+**David Dai**
+- *email: daviddaicareer@gmail.com*
+- *website: daviddai-website.netlify.app*
